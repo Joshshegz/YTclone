@@ -49,10 +49,10 @@
   }
 }
 
-@media ( min-width: 651px)  and (max-width: 999px)
+@media ( min-width: 651px)  and (max-width: 650px)
 {
   .video-grid {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
 }
 }
 
